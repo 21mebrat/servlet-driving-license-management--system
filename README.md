@@ -31,9 +31,8 @@ A web-based application built using Java Servlets to manage driving license-rela
 - **Apache Tomcat** (Server)
 
 ---
-Here’s the full content written in proper Markdown format for GitHub:
 
-```markdown
+
 ## Clone the Repository
 To get a copy of the project up and running on your local machine, clone the repository using the following command:
 
@@ -77,12 +76,7 @@ Contributions are welcome! Please follow these steps:
    ```bash
    git push origin feature-name
    ```
-5. Create a pull request.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -90,7 +84,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, contact:
 
 **Mebrat Matebie**  
-**Email**: [your-email@example.com]  
+**Email**: [maytotmat@gmail.com]  
 **GitHub**: [21mebrat](https://github.com/21mebrat)
 ```
 

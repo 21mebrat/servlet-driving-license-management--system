@@ -84,7 +84,7 @@ Contributions are welcome! Please follow these steps:
 For any inquiries or feedback, contact:
 
 **Mebrat Matebie**  
-**Email**: [maytotmat@gmail.com]  
+**Email**: maytotmat@gmail.com  
 **GitHub**: [21mebrat](https://github.com/21mebrat)
 ```
 
